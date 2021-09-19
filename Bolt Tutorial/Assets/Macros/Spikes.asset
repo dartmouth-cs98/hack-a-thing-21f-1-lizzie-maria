@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: Spikes
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":264.3016,"y":36.25161},"zoom":1.0,"elements":[{"argumentCount":0,"defaultValues":{"name":{"$content":"Death","$type":"System.String"},"target":null},"position":{"x":354.0,"y":-20.0},"guid":"f6cfbf68-1dae-4fd5-a73b-390d13b91707","$version":"A","$type":"Bolt.TriggerCustomEvent","$id":"9"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{"tag":{"$content":"Player","$type":"System.String"}},"position":{"x":55.0,"y":-19.0},"guid":"9293c31e-c6da-4961-9393-73a19831d63b","$version":"A","$type":"Bolt.SuperUnit","$id":"11"},{"sourceUnit":{"$ref":"11"},"sourceKey":"target","destinationUnit":{"$ref":"9"},"destinationKey":"enter","guid":"fec8cb90-dd21-4be4-bb8c-0d36f0f9951c","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"object","destinationUnit":{"$ref":"9"},"destinationKey":"target","guid":"fca7aa85-2783-4bd8-b878-a795e14f0b5e","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: beaf883c49c0f42b2a905d8a93d99aa8, type: 2}
