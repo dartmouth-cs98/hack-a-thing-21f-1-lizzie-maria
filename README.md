@@ -2,7 +2,7 @@
 
 ## What you built? 
 
-We attempted the Unity/Bolt tutorial found [here](https://learn.unity.com/project/bolt-platformer-tutorial). We built a game in Unity with the following elements:
+We created a simple platformer game with Unity and Bolt, which includes the following elements:
 
 **Levels**
 
