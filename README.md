@@ -20,6 +20,9 @@ We created a simple platformer game with Unity and Bolt, which includes the foll
 
 ![keys & doors](images/game3.gif)
 
+**Menu**
+![image](https://user-images.githubusercontent.com/52898557/134068533-2e707d64-cbbb-474e-b3c2-b68951abcb1d.png)
+
 
 ## Who Did What?
 
