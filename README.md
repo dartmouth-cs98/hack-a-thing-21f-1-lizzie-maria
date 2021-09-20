@@ -4,8 +4,7 @@
 
 We attempted to build a game in Unity using Bolt by following [this tutorial](https://learn.unity.com/project/bolt-platformer-tutorial?uv=2019.3).
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+![image](https://user-images.githubusercontent.com/52898557/133957397-b9d81430-4fc4-4487-b99c-5fc09ab45911.png)
 
 ## Who Did What?
 
