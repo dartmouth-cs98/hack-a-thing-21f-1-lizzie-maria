@@ -8,6 +8,8 @@ TODO: Short description of what you attempted to build
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
+![image](https://user-images.githubusercontent.com/52898557/134063342-177a56a8-28cf-4cf2-bc60-1eacc6a5579d.png)
+
 ## Who Did What?
 
 The online tutorial itself is well divided into parts, therefore, we each chose parts we were interested in solving:
