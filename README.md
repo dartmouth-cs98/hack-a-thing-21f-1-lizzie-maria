@@ -2,13 +2,24 @@
 
 ## What you built? 
 
+We created a simple platformer game with Unity and Bolt, which includes the following elements:
 
-TODO: Short description of what you attempted to build
+**Levels**
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+![level 1](images/game1.gif)
 
-![image](https://user-images.githubusercontent.com/52898557/134063342-177a56a8-28cf-4cf2-bc60-1eacc6a5579d.png)
+**Keys and doors**
+
+![keys and doors](images/game2.gif)
+
+**Enemies that follow the character around**
+
+![keys & doors](images/game4.gif)
+
+**Projectiles**
+
+![keys & doors](images/game3.gif)
+
 
 ## Who Did What?
 
