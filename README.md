@@ -2,9 +2,11 @@
 
 ## What you built? 
 
-We attempted to build a game in Unity using Bolt by following [this tutorial](https://learn.unity.com/project/bolt-platformer-tutorial?uv=2019.3).
 
-![image](https://user-images.githubusercontent.com/52898557/133957397-b9d81430-4fc4-4487-b99c-5fc09ab45911.png)
+TODO: Short description of what you attempted to build
+
+Include some screenshots.
+[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
 ## Who Did What?
 
@@ -14,7 +16,8 @@ The online tutorial itself is well divided into parts, therefore, we each chose 
 3. *Maria*: Added the jump animations and ground check. This made sure the character landed properly on the platforms. 
 4. *Lizzie*: added level change when the character reaches the red flad and spike death behavior that resets the scene.
 5. *Maria* added the HUD which is the scene atop the main scene the displays the hearts and keys. Then, I set up door and key behaviors.
-6. *Lizzie*: added the health and damage behavior, which included enemy attacks and death on spikes. Moreover, had to set up the enemy AI and projective attack so that it attacked the character and made the game more intense.
+6. *Lizzie*: added the health and damage behavior, which included enemy attacks and death on spikes. Moreover, had to set up the enemy AI and projective attack so that it attacked the character and made the game more intense. 
+    * The enemies will patrol their platform randomly until the player comes nearby. When that happens, they will chase the player. If the player escapes, they will go back to random.
 7. *Maria*: set up the pause and main menus so that the game navigation was all set up.
 
 However, even though we each worked on a specific part, we both would look and pay attention while the other one worked. This way, we both managed to get the same learning experience out of the tutorial and get to work together whenever we got stuck. 
