@@ -2,8 +2,7 @@
 
 ## What you built? 
 
-
-TODO: Short description of what you attempted to build
+We attempte to build a game in Unity using Bolt by following [this tutorial](https://learn.unity.com/project/bolt-platformer-tutorial?uv=2019.3).
 
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
