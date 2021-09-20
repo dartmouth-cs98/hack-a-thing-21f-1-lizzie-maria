@@ -32,14 +32,14 @@ Once thing that we really didn't enjoy, was working on such a small computer scr
 
 ![Screen Clutter](ScreenClutter.png)
 
-Another thing that was complicated was that each node had several variables that were too small on our screen. This made it easy to mistakenly miss to fill one in and the whole behavior to fail. Causing us to have to go back and check each individual variable once again. 
+Something complicated was that each node had several variables that were too small on our screen. This made it easy to mistakenly miss to fill one in and the whole behavior to fail. Causing us to have to go back and check each individual variable once again. 
 
 Another thing we learnt was how to create a full 2D video game experience with 4 levels, a pause and main menu, enemies, and fun experiences. It was definitely a fun and engaging experience. 
 
 ## Authors
 
-Lizzie Hernandez
-Maria Mora Bolaños
+* Lizzie Hernandez
+* Maria Mora Bolaños
 
 ## Acknowledgments
 
