@@ -46,7 +46,7 @@ Throughout the tutorial, we managed to learn several different things. The first
 
 Once thing that we really didn't enjoy, was working on such a small computer screeen. These graph interfaces each take up a lot of space, leaving the screen to be very crowded and cluttered. We would have enjoyed this tutorial more on a dual screen monitor or a larger computer screen. This clutter can be clearly seen in the image below.
 
-![Screen Clutter](ScreenClutter.png)
+![Screen Clutter](images/ScreenClutter.png)
 
 Something complicated was that each node had several variables that were too small on our screen. This made it easy to mistakenly miss to fill one in and the whole behavior to fail. Causing us to have to go back and check each individual variable once again. 
 
