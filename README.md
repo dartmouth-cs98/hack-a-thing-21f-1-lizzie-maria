@@ -12,6 +12,10 @@ We attempted the Unity/Bolt tutorial found [here](https://learn.unity.com/projec
 
 ![keys and doors](images/game2.gif)
 
+**Enemies that follow the character around**
+
+![keys & doors](images/game4.gif)
+
 **Projectiles**
 
 ![keys & doors](images/game3.gif)
